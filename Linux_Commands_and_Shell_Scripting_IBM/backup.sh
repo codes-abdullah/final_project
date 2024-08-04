@@ -1,4 +1,4 @@
-# This checks if the number of arguments is correct
+-# This checks if the number of arguments is correct
 # If the number of arguments is incorrect ( $# != 2) print error message and exit
 if [[ $# != 2 ]]
 then
